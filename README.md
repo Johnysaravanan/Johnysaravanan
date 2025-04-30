@@ -1,7 +1,6 @@
 # Portfolio Showcase
 
 <div align="center">
-  <img src="https://github.com/Johnysaravanan.png" alt="Profile Picture" width="150" style="border-radius: 50%; border: 4px solid #58a6ff; box-shadow: 0 0 20px rgba(88, 166, 255, 0.3);">
   
   # Johny Saravanan
   ### Full Stack Developer | Open Source Enthusiast
