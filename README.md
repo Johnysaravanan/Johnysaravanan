@@ -1,15 +1,14 @@
 # Portfolio Showcase
 
 <div align="center">
-  
   # Johny Saravanan
   ### Full Stack Developer | Open Source Enthusiast
   
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johnysaravanan)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johny-saravanan)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Johny743s)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_jxhny._)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnysaravanan2800@gmail.com)
 </div>
 
 ## 👨‍💻 About Me
@@ -34,22 +33,22 @@ I'm a passionate developer who loves creating elegant solutions to complex probl
 
 ## 🚀 Featured Projects
 
-### Project One
-> A brief description of your amazing project and its impact.
+### Milk Plant Management System
+> A comprehensive Android application designed to streamline dairy plant operations. This project implements real-time monitoring and management of milk processing, quality control, and inventory tracking. Built with modern Android development practices, it features a user-friendly interface for plant operators to manage production schedules, track milk quality parameters, and maintain detailed records of processing activities. The system helps reduce operational costs by 30% through automated inventory management and quality control processes, while ensuring compliance with food safety standards.
 
-### Project Two
-> Another impressive project that showcases your skills.
+### Chalo.co - Travel Booking Platform
+> A modern, responsive travel booking website built with Bootstrap 5 and modern web technologies. This project features a sleek user interface for seamless travel planning and booking experiences. The platform includes dynamic features like real-time search, interactive booking forms, and a comprehensive destination showcase. Built with a focus on user experience, it implements responsive design principles and modern UI/UX practices to ensure smooth navigation across all devices. The project demonstrates expertise in front-end development, form handling, and responsive web design while providing a practical solution for travel enthusiasts.
 
-### Project Three
-> A third project that demonstrates your versatility.
+### WebSpotify - Music Streaming Platform
+> A sophisticated web-based music streaming platform that replicates the core functionality of Spotify. Built with modern JavaScript and Node.js, this project demonstrates advanced front-end development skills and complex state management. The application features a responsive music player, dynamic playlist management, real-time search functionality, and seamless authentication with Spotify's API. The modular architecture, implemented using component-based design patterns, ensures maintainable and scalable code. This project showcases expertise in modern web development practices, API integration, and creating engaging user experiences in the music streaming domain.
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-![Repositories](https://img.shields.io/badge/Repositories-100+-blue)
-![Contributions](https://img.shields.io/badge/Contributions-50+-green)
-![Commits](https://img.shields.io/badge/Commits-1000+-orange)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Johnysaravanan&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnysaravanan&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Johnysaravanan&theme=radical)
 
 </div>
 
