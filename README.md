@@ -46,8 +46,8 @@ I'm a passionate developer who loves creating elegant solutions to complex probl
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Johnysaravanan&show_icons=true&theme=radical)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnysaravanan&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Johnysaravanan&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnysaravanan&layout=compact&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Johnysaravanan&theme=radical)](https://git.io/streak-stats)
 
 </div>
