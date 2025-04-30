@@ -1,8 +1,8 @@
 # Portfolio Showcase
 
 <div align="center">
-  # Johny Saravanan
-  ### Full Stack Developer | Open Source Enthusiast
+  <h1 style="font-size: 3.5em; margin-bottom: 10px; color: #ff6b6b;">Johny Saravanan</h1>
+  <h2 style="font-size: 1.8em; margin-bottom: 20px; color: #ffd93d;">Full Stack Developer | Open Source Enthusiast</h2>
   
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johnysaravanan)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johny-saravanan)
