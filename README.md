@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="font-size: 4.5em; margin-bottom: 10px; color: #ff6b6b;">Johny Saravanan</h1>
   <h2 style="font-size: 1.8em; margin-bottom: 20px; color: #ffd93d;">Full Stack Developer | Open Source Enthusiast</h2>
-  
+</div>
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johnysaravanan)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johny-saravanan)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Johny743s)
