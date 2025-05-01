@@ -1,7 +1,5 @@
-# Portfolio Showcase
-
 <div align="center">
-  <h1 style="font-size: 3.5em; margin-bottom: 10px; color: #ff6b6b;">Johny Saravanan</h1>
+  <h1 style="font-size: 4.5em; margin-bottom: 10px; color: #ff6b6b;">Johny Saravanan</h1>
   <h2 style="font-size: 1.8em; margin-bottom: 20px; color: #ffd93d;">Full Stack Developer | Open Source Enthusiast</h2>
   
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johnysaravanan)
